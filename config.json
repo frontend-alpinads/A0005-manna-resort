@@ -1,52 +1,52 @@
 {
   "hotel": {
-    "name": "Hotel Musterhaus",
-    "id": "A0000",
-    "url": "https://www.example.com",
-    "phone": "+39 0474 000000",
-    "email": "info@example.com",
-    "bookingUrl": "https://www.example.com/buchen"
+    "name": "Manna Resort",
+    "id": "A0005",
+    "url": "https://www.mannaresort.it/",
+    "phone": "",
+    "email": "",
+    "bookingUrl": "https://www.mannaresort.it//buchen"
   },
   "theme": {
     "colors": {
-      "primary": "#2c5f2d",
-      "secondary": "#97bc62",
-      "accent": "#d4a843",
-      "text": "#1a1a1a",
-      "textLight": "#6b7280",
-      "background": "#fafaf8",
-      "backgroundAlt": "#f0ebe3",
+      "primary": "#A49055",
+      "secondary": "#120C05",
+      "accent": "#a59157",
+      "text": "#32373c",
+      "textLight": "#abb8c3",
+      "background": "#ffffff",
+      "backgroundAlt": "#f78da7",
       "white": "#ffffff"
     },
     "fonts": {
-      "heading": "Cormorant Garamond",
-      "body": "Lato"
+      "heading": "Mirador",
+      "body": "Gotham"
     }
   },
   "hero": {
-    "text": "Willkommen im Paradies",
-    "description": "Erleben Sie unvergessliche Momente inmitten der Südtiroler Bergwelt. Ihr Rückzugsort für Körper und Seele.",
-    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1600&q=80",
+    "text": "Herbstzauber im Luxus Südtirols erleben",
+    "description": "Aktive Erholung zwischen goldenen Wäldern und alpinen Gipfeln. Sport, Wellness und Genuss vereint im exklusiven Manna Resort.",
+    "image": "https://www.mannaresort.it/wp-content/uploads/2022/07/manna-resort_ballarini-io-sono-qui-1.jpg",
     "ctaText": "Jetzt anfragen",
-    "ctaUrl": "https://www.example.com/buchen"
+    "ctaUrl": "https://www.mannaresort.it//buchen"
   },
   "sections": {
     "about": {
       "enabled": true,
       "title": "Über uns",
-      "text": "Seit Generationen heißen wir Gäste aus aller Welt willkommen. Unser Haus verbindet alpinen Charme mit modernem Komfort.",
-      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&q=80"
+      "text": "Das Manna Resort vereint Luxus mit authentischer Südtiroler Gastfreundschaft. Mit eleganten Junior Suites, exklusiven Chalets und erstklassigen Spa- und Sportangeboten bieten wir Ihnen unvergessliche Momente inmitten der Dolomiten.",
+      "image": "https://www.mannaresort.it/wp-content/uploads/2023/04/manna-luxury-resort-spa-pool-alto-adige-1.jpg"
     },
     "gallery": {
       "enabled": true,
       "title": "Impressionen",
       "images": [
-        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=600&q=80",
-        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=600&q=80",
-        "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=600&q=80",
-        "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=600&q=80",
-        "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=600&q=80",
-        "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=600&q=80"
+        "https://www.mannaresort.it/wp-content/uploads/2023/04/manna-luxury-resort-spa-pool-alto-adige-1.jpg",
+        "https://www.mannaresort.it/wp-content/uploads/2023/07/junior-suite-design-manna-luxury-resort-spa-alto-adige-2023-1.jpg",
+        "https://www.mannaresort.it/wp-content/uploads/2023/07/chalet-manna-resort-1-2023.jpg",
+        "https://www.mannaresort.it/wp-content/uploads/2023/04/manna-luxury-resort-restaurant-orangerie-alto-adige.jpg",
+        "https://www.mannaresort.it/wp-content/uploads/2023/04/manna-luxury-resort-spa-medical-bio-alto-adige-1.jpg",
+        "https://www.mannaresort.it/wp-content/uploads/2023/04/manna-luxury-resort-spa-pool-alto-adige-2.jpg"
       ]
     },
     "cta": {
@@ -54,10 +54,10 @@
       "title": "Bereit für Ihren Traumurlaub?",
       "text": "Sichern Sie sich jetzt Ihren Wunschtermin.",
       "buttonText": "Verfügbarkeit prüfen",
-      "buttonUrl": "https://www.example.com/buchen"
+      "buttonUrl": "https://www.mannaresort.it//buchen"
     }
   },
   "footer": {
-    "text": "© 2026 Hotel Musterhaus. Alle Rechte vorbehalten."
+    "text": "© 2026 Manna Resort. Alle Rechte vorbehalten."
   }
 }
